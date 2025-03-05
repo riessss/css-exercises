@@ -1,0 +1,17 @@
+.odd {
+    font: Veradana, DejaVU Sans, sans-serif;
+    background-color: rgb(249,42,83);
+}
+
+#nr2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#nr4 {
+    background-color: lightgreen;
+}
+
+.font {
+    font-size: 24px;
+}
